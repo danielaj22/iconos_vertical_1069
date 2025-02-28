@@ -1,6 +1,8 @@
 # myapp
 
-A new Flutter project.
+## salida de iconos
+![image](https://github.com/user-attachments/assets/b3fe593a-e604-4705-af46-04dfd5dac0e8)
+
 
 ## Getting Started
 
